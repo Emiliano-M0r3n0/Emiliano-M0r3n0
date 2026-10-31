@@ -1,16 +1,21 @@
-## Hi there 👋
+🚀 About Me
 
-<!--
-**Emiliano-M0r3n0/Emiliano-M0r3n0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Studying Mechatronics Engineering with a focus on embedded systems, robotics, and software integration.
 
-Here are some ideas to get you started:
+🔬 Presented OpenTP (Open Source Robotics Simulation Tool) at WITCOM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Passionate about Self-Hosting, Docker containers, and building secure homelab infrastructure.
+
+🌐 Building and maintaining my personal site at em0r3n0dev.xyz.
+
+📌 Featured Projects
+
+🛠️ Tech Stack & Tools
+
+🤖 Embedded Systems & Robotics
+
+⚙️ Hardware Design & Fabrication
+
+🌐 Web, Server & DevOps
+
+📈 GitHub Stats
